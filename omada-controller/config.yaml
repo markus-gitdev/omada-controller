@@ -1,5 +1,4 @@
 ---
-# Required configuration options:
 name: Omada Controller
 version: 0.0.1
 slug: omada_controller
